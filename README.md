@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="contador_numeros" src="img/" />
+  <img alt="contador_numeros" src="img/contador_numeros.png" />
 </p>
 
 <h3 align="center">
