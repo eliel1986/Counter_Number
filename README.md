@@ -16,13 +16,6 @@ Benjamin Disraeli
   <a href="#features-adicionadas">Como funciona</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-## Features adicionadas
-
-- [X] Botão para converter todos caracteres em maiúsculas (TEXTO);
-- [X] Botão para converter todos caracteres em minúsculas (texto);
-- [X] Botão para converter primeiro caracter em maiúscula (Texto);
-- [X] Botão para converter primeiro caracter de cada palavra em maiúscula (Texto tx Texto);
-
 ## Como funciona
 
 <img src="img/">
