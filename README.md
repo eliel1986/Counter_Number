@@ -18,7 +18,7 @@ Benjamin Disraeli
 
 ## Como funciona
 
-<img src="img/">
+<img src="img/contador_numeros.gif">
 
 ---
 
