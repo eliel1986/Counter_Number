@@ -19,7 +19,11 @@ function cont() {
 		}
 	}
 
-	if (qtd == 1) {
+	if (qtd == 0) {
+		document.getElementById("total").value =
+			"Nenhuma vez o número " + choose_number;
+	}
+	else if (qtd == 1) {
 		document.getElementById("total").value =
 			qtd + " vez o número " + choose_number;
 	} else {
